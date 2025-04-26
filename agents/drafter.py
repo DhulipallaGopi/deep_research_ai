@@ -13,9 +13,9 @@ class DraftState(TypedDict):
 
 # 2. Groq LLM Setup
 llm = ChatGroq(
-    model="Llama3-70b-8192",  # or "Mixtral-8x7b-32768"
+    model="Llama3-70b-8192", 
     temperature=0.5,
-    groq_api_key="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"  # 🔥 Replace with your actual key
+    groq_api_key="gsk_ekXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXvEYcp7y9"  #
 )
 
 # 3. Drafter Prompt

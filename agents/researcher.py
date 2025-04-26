@@ -1,13 +1,13 @@
-# agents/researcher.py
 
-from langchain_groq import ChatGroq  # ✅ Use Groq instead of OpenAI
+
+from langchain_groq import ChatGroq  
 from langchain_community.tools.tavily_search import TavilySearchResults
 from langchain.agents import initialize_agent, Tool
 from langchain_core.runnables import Runnable, RunnableLambda
 from langgraph.graph import StateGraph
 from typing import TypedDict
 
-# 1. Define Researcher State Schema
+#1. Define Researcher State Schema
 class ResearchState(TypedDict):
     question: str
     response: str
@@ -16,12 +16,10 @@ class ResearchState(TypedDict):
 llm = ChatGroq(
     model="Llama3-70b-8192",  # or "Mixtral-8x7b-32768" if you want
     temperature=0.3,
-    groq_api_key="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"  # 🔥 Replace with your actual key
-)
+    groq_api_key="gsk_ekxuxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxp7y9") #use the your api key for the getting puts
 
 # 3. Tavily Web Search Tool Setup
-tavily_tool = TavilySearchResults(tavily_api_key="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")  # 🔥 Replace with your actual key
-
+tavily_tool = TavilySearchResults(tavily_api_key="tvly-deXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFryEiCcXQ")  
 tools = [
     Tool(
         name="web-search",
