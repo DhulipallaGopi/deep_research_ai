@@ -87,10 +87,10 @@ Feel free to contribute to the repository by forking it and submitting a pull re
 ## Output Images
 
 <p align="center">
-  <img src="assests//output1.png" width="400" height="250">
-  <img src="assests//output2.png" width="400" height="250">
-  <img src="assests//output3.png" width="400" height="250">
-  <img src="assests//output4.png" width="400" height="250">
+  <img src="assests/output1.png" width="400" height="250">
+  <img src="assests/output2.png" width="400" height="250">
+  <img src="assests/output3.png" width="400" height="250">
+  <img src="assests/output4.png" width="400" height="250">
 </p>
 
 
