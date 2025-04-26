@@ -84,10 +84,13 @@ Consider version control practices such as .gitignore to exclude sensitive files
 Contributing
 Feel free to contribute to the repository by forking it and submitting a pull request. Make sure to follow good coding practices and keep sensitive data out of commits.
 #output
+## Output Images
+
 <p align="center">
-  <img src="assests/output1.png" width="200" height="250">
-  <img src="assets/output2.png" width="200" height="250">
-  <img src="assests/output3.png" width="200" height="250">
-  <img src="assests/output4.png" width="200" height="250">
-  <img src="assests/output5.png" width="200" height="250">
+  <img src="assests/output1.png" width="400" height="250">
+  <img src="assests/output2.png" width="400" height="250">
+  <img src="assests/output3.png" width="400" height="250">
+  <img src="assests/output4.png" width="400" height="250">
+  <img src="assests/output5.png" width="400" height="250">
 </p>
+
