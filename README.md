@@ -86,11 +86,10 @@ Feel free to contribute to the repository by forking it and submitting a pull re
 #output
 ## Output Images
 
-<p align="center">
-  <img src="assests/output1.png" width="400" height="250">
-  <img src="assests/output2.png" width="400" height="250">
-  <img src="assests/output3.png" width="400" height="250">
-  <img src="assests/output4.png" width="400" height="250">
-  <img src="assests/output5.png" width="400" height="250">
-</p>
+![Output1](assests/output1.png)
+![Output2](assests/output2.png)
+![Output3](assests/output3.png)
+![Output4](assests/output4.png)
+![Output5](assests/output5.png)
+
 
