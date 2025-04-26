@@ -85,10 +85,14 @@ Contributing
 Feel free to contribute to the repository by forking it and submitting a pull request. Make sure to follow good coding practices and keep sensitive data out of commits.
 #output
 ## Output Images
-![Output1](assests/output1.png)
-![Output2](assests/output2.png)
-![Output3](assests/output3.png)
-![Output4](assests/output4.png)
+## Output Images
+
+![Output1](assests/output1.jpg)
+![Output2](assests/output2.jpg)
+![Output3](assests/output3.jpg)
+![Output4](assests/output4.jpg)
+![Output5](assests/output5.jpg)
+
 
 
 
